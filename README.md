@@ -59,10 +59,7 @@
       <br>MySQL
     </td>
   
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />
-      <br>FastAPI
-    </td>
+
     
     </td>
   </tr>
