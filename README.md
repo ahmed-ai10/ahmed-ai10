@@ -50,7 +50,15 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
       <br>NumPy
     </td>
-    
+     <td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="48" height="48" alt="DBeaver" />
+  <br>DBeaver
+</td>
+
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" />
+  <br>PyTorch
+</td>
   </tr>
 
   <tr>
