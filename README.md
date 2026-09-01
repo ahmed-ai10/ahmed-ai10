@@ -1,5 +1,5 @@
 <h1 align="left" id="ahmed-title">👋 Hello there! I'm Ahmed Ibrahim Mugahed</h1>
-<h3 align="left">AI / Machine Learning / Data Engineering / MLOps Enthusiast</h3>
+<h3 align="left">AI / Machine Learning / Data Engineering </h3>
 
 <p align="left">
   <a href="https://github.com/ahmed-ai10/ahmed-ai10">
@@ -50,18 +50,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
       <br>NumPy
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
-      <br>TensorFlow
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
+    
   </tr>
 
   <tr>
@@ -69,25 +58,12 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
+  
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />
       <br>FastAPI
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="48" height="48" alt="Kubernetes" />
-      <br>Kubernetes
+    
     </td>
   </tr>
 </table>
@@ -118,25 +94,8 @@ Software Engineering   ████████████░░░░░░░
 * 🔹 APIs for ML applications
 * 🔹 Data platforms & databases
 
-<h2 align="left">📌 Featured Projects</h2>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">♻️ EcoVibe</h3>
-      <p align="center">
-        A marketplace connecting people and businesses to buy, sell and exchange recyclable waste.
-      </p>
-    </td>
 
-```
-<td width="50%">
-  <h3 align="center">🤖 AI / ML Projects</h3>
-  <p align="center">
-    Machine Learning and Deep Learning projects focused on real-world problems and data-driven solutions.
-  </p>
-</td>
-```
 
   </tr>
 </table>
