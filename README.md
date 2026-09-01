@@ -112,17 +112,7 @@ Software Engineering   ████████████░░░░░░░
   </tr>
 </table>
 
-<h2 align="left">📈 GitHub Activity</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-ai10&show_icons=true&hide_border=true&count_private=true" alt="Ahmed's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-ai10&hide_border=true" alt="GitHub streak" />
-</p>
-
----
 
 <h2 align="left">🤝 Let's Connect</h2>
 
