@@ -23,11 +23,8 @@
 
 * 🤖  I'm currently exploring **Artificial Intelligence & Machine Learning**
 * 📊  I'm interested in **Data Engineering & Data Platforms**
-* ⚙️  I'm learning how to build and deploy ML systems using **MLOps**
-* 🐳  Currently learning more about **Docker & containerized ML applications**
-* 🗄️  Working with **SQL, NoSQL & Data Processing**
+* 🗄️  Working with **SQL & Data Processing**
 * 🧠  Interested in **Deep Learning, ANN & Computer Vision**
-* ♻️  Building ideas around **AI + Sustainability & Recycling**
 * 🚀  My goal is to build **production-ready AI systems**, not just models
 
 <br>
@@ -88,9 +85,6 @@
 Machine Learning       ███████████████████░░
 Deep Learning          ███████████████░░░░░
 Data Engineering       ███████████████░░░░░
-MLOps                  ████████████░░░░░░░░
-Cloud & Deployment     ██████████░░░░░░░░░░
-Software Engineering   ████████████░░░░░░░░
 ```
 
 <h2 align="left">🚀 Current Focus</h2>
